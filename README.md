@@ -1,2 +1,1 @@
-# .github
-SwSCOR public profile
+# SwSCOR
